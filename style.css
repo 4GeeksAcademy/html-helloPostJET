@@ -62,6 +62,11 @@ body {
   margin-left: auto;
 }
 
+.post-text .likes-by {
+  font-size: 0.85rem; 
+  color: #000000;
+  margin: 5px 0;
+
 .post-text p {
   margin: 5px 0;
 }
